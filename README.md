@@ -10,7 +10,7 @@ Navigate my website using these links
 * [Skincare](./skincare.md)
 * [Code](./code.md)
 
-![Heart]https://scx2.b-cdn.net/gfx/news/2021/1-heart.jpg()
+![Heart](https://scx2.b-cdn.net/gfx/news/2021/1-heart.jpg)
 
 --------------------------------
 [Next](./recipe.md)
