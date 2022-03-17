@@ -15,5 +15,7 @@ I love finding new and easy recipes to try. So, here's my **favorite** recipe th
 
 * [Gathered Nutrition](https://gatherednutrition.com/cherry-ice-cream-smoothie-vegan-paleo/)
 
+![Cherry Smoothie](https://gatherednutrition.com/wp-content/uploads/2021/06/37A043A7-D18E-4A78-B701-1320AA45E8BA-819x1024.jpg)
+--------------------------------
 [return to home](./README.md)
 [next](./code.md)

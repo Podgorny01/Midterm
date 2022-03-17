@@ -9,5 +9,5 @@ Navigate my website using these links
 * [Hobbies](./hobby.md)
 * [Skincare](./skincare.md)
 * [Code](./code.md)
-
+--------------------------------
 [next](./recipe.md)
