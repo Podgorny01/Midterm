@@ -12,6 +12,6 @@ animals.push('fish', 'eels', 'seahorses');
     console.log(animals);
 //expected outcome: Array["sharks", "dolphins", "whales", "turtles", "fish", "eels", "seahorses"]
 --------------------------------
-[return to home](./README.md)  
-[next](./hobby.md)  
-[back](./recipe.md)  
+[Return to home](./README.md)  
+[Next](./hobby.md)  
+[Back](./recipe.md)  

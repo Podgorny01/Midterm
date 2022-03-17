@@ -10,4 +10,4 @@ Navigate my website using these links
 * [Skincare](./skincare.md)
 * [Code](./code.md)
 --------------------------------
-[next](./recipe.md)
+[Next](./recipe.md)

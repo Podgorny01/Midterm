@@ -10,6 +10,6 @@ When I'm not working on homework, I like to do a few of my hobbies.
 
 ![Bee Happy](https://github.com/Podgorny01/Midterm/issues/1#issue-1171723393)
 --------------------------------
-[return to home](./README.md)  
-[next](./skincare.md)  
-[back](./code.md)  
+[Return to home](./README.md)  
+[Next](./skincare.md)  
+[Back](./code.md)  
